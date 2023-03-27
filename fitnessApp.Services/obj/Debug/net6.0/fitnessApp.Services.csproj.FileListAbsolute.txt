@@ -1,0 +1,12 @@
+/Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Services/bin/Debug/net6.0/fitnessApp.Services.deps.json
+/Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Services/bin/Debug/net6.0/fitnessApp.Services.dll
+/Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Services/bin/Debug/net6.0/fitnessApp.Services.pdb
+/Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Services/obj/Debug/net6.0/fitnessApp.Services.csproj.AssemblyReference.cache
+/Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Services/obj/Debug/net6.0/fitnessApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Services/obj/Debug/net6.0/fitnessApp.Services.AssemblyInfoInputs.cache
+/Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Services/obj/Debug/net6.0/fitnessApp.Services.AssemblyInfo.cs
+/Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Services/obj/Debug/net6.0/fitnessApp.Services.csproj.CoreCompileInputs.cache
+/Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Services/obj/Debug/net6.0/fitnessApp.Services.dll
+/Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Services/obj/Debug/net6.0/refint/fitnessApp.Services.dll
+/Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Services/obj/Debug/net6.0/fitnessApp.Services.pdb
+/Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Services/obj/Debug/net6.0/ref/fitnessApp.Services.dll

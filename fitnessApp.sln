@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fitnessApp.Data", "fitnessApp.Data\fitnessApp.Data.csproj", "{7CE6F007-E5D2-4EAA-ABBB-7C08DC8432F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fitnessApp.Models", "fitnessApp.Models\fitnessApp.Models.csproj", "{9FC8103F-0442-4D7B-AC08-810F70A5F301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fitnessApp.Server", "fitnessApp.Server\fitnessApp.Server.csproj", "{00682592-E280-44F6-8886-2474F67AED95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fitnessApp.Services", "fitnessApp.Services\fitnessApp.Services.csproj", "{5B206452-8F61-49E8-95D3-8FD87ED87626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CE6F007-E5D2-4EAA-ABBB-7C08DC8432F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE6F007-E5D2-4EAA-ABBB-7C08DC8432F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE6F007-E5D2-4EAA-ABBB-7C08DC8432F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE6F007-E5D2-4EAA-ABBB-7C08DC8432F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC8103F-0442-4D7B-AC08-810F70A5F301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC8103F-0442-4D7B-AC08-810F70A5F301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC8103F-0442-4D7B-AC08-810F70A5F301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC8103F-0442-4D7B-AC08-810F70A5F301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00682592-E280-44F6-8886-2474F67AED95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00682592-E280-44F6-8886-2474F67AED95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00682592-E280-44F6-8886-2474F67AED95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00682592-E280-44F6-8886-2474F67AED95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B206452-8F61-49E8-95D3-8FD87ED87626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B206452-8F61-49E8-95D3-8FD87ED87626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B206452-8F61-49E8-95D3-8FD87ED87626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B206452-8F61-49E8-95D3-8FD87ED87626}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
