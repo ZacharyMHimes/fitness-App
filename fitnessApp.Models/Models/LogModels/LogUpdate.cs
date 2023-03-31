@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace fitnessApp.Services.IServices
+namespace fitnessApp.Models.Models.LogModels
 {
-    public interface IUserService
+    public class LogUpdate
     {
         
     }

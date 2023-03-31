@@ -2,11 +2,12 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using fitnessApp.Models.LogBookModels;
 
-namespace fitnessApp.Services.IServices
+namespace fitnessApp.Services.Services
 {
-    public interface ILogBookService
+    public class LogBookService
     {
-        
+
     }
 }
