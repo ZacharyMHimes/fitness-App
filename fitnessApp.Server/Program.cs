@@ -1,13 +1,19 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using fitnessApp.Server.Data;
+using fitnessApp.Data.DBContext;
+
+
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
-builder.Services.AddSingleton<WeatherForecastService>();
+builder.Services.AddDbContext<AppDbContext>(options=>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddScoped<ICategoryService,CategoryService>();
+builder.Services.AddScoped<INoteService,NoteService>();
 
 var app = builder.Build();
 

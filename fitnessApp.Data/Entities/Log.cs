@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace fitnessApp.Data.Entities
 {
-    public class Log
-    {
+public class Log
+{
         [Key]
         public int Id {get; set;}
         [Required]
@@ -37,5 +37,5 @@ namespace fitnessApp.Data.Entities
 // Progress Pic:
         public string ProgressPicURL {get; set;}
 
-    }
+}
 }
