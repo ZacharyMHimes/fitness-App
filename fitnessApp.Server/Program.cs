@@ -1,9 +1,10 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using fitnessApp.Server.Data;
+using Microsoft.EntityFrameworkCore;
+using fitnessApp.Services.IServices;
+using fitnessApp.Services.Services;
 using fitnessApp.Data.DBContext;
-
-
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,8 +13,10 @@ builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddDbContext<AppDbContext>(options=>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-builder.Services.AddScoped<ICategoryService,CategoryService>();
-builder.Services.AddScoped<INoteService,NoteService>();
+builder.Services.AddScoped<IUserService,UserService>();
+builder.Services.AddScoped<ILogBookService,LogBookService>();
+builder.Services.AddScoped<ILogService,LogService>();
+
 
 var app = builder.Build();
 
