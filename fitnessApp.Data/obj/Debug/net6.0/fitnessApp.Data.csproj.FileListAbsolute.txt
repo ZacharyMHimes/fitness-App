@@ -10,3 +10,5 @@
 /Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Data/obj/Debug/net6.0/refint/fitnessApp.Data.dll
 /Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Data/obj/Debug/net6.0/fitnessApp.Data.pdb
 /Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Data/obj/Debug/net6.0/ref/fitnessApp.Data.dll
+/Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Data/bin/Debug/net6.0/fitnessApp.Data.runtimeconfig.json
+/Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Data/obj/Debug/net6.0/fitnessApp.Data.genruntimeconfig.cache

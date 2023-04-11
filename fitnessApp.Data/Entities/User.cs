@@ -15,6 +15,5 @@ namespace fitnessApp.Data.Entities
         [Required]
         public string Password {get; set;}
 
-
     }
 }

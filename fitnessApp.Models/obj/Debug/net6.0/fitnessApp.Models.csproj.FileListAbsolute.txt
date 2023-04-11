@@ -10,3 +10,6 @@
 /Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Models/obj/Debug/net6.0/refint/fitnessApp.Models.dll
 /Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Models/obj/Debug/net6.0/fitnessApp.Models.pdb
 /Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Models/obj/Debug/net6.0/ref/fitnessApp.Models.dll
+/Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Models/bin/Debug/net6.0/fitnessApp.Data.dll
+/Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Models/bin/Debug/net6.0/fitnessApp.Data.pdb
+/Users/zacharyhimes/Desktop/codingAssets/FitnessBlazorApp/fitnessApp.Models/obj/Debug/net6.0/fitnessApp.Models.csproj.CopyComplete

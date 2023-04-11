@@ -4,6 +4,7 @@ using fitnessApp.Server.Data;
 using Microsoft.EntityFrameworkCore;
 using fitnessApp.Services.IServices;
 using fitnessApp.Services.Services;
+using fitnessApp.Data;
 using fitnessApp.Data.DBContext;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,7 +12,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
-builder.Services.AddDbContext<AppDbContext>(options=>
+builder.Services.AddDbContext<AppDbContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddScoped<IUserService,UserService>();
 builder.Services.AddScoped<ILogBookService,LogBookService>();
